@@ -1,0 +1,16 @@
+{
+  "name": "Ant Design Pro",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "dev-server",
+      "command": "npm start"
+    }
+  ],
+  "ports": [
+    {
+      "name": "Umi dev server",
+      "port": 8000
+    }
+  ]
+}
