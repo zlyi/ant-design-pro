@@ -8,8 +8,8 @@ const Settings: ProLayoutProps & {
   logo?: string;
 } = {
   navTheme: 'light',
-  // 拂晓蓝
-  colorPrimary: '#1890ff',
+  // Ant Design 5 默认主色（科技蓝）
+  colorPrimary: '#1677ff',
   layout: 'mix',
   contentWidth: 'Fluid',
   fixedHeader: false,
